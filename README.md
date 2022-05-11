@@ -5,7 +5,7 @@ Projects that are links are currently being worked on or are finished.
 
 ## Project List
 - [ ] Binary tree
-- [ ] [Simple calculator](https://github.com/kbonnici/calculator)
+- [x] [Simple calculator](https://github.com/kbonnici/calculator)
 - [ ] Command line based todo application
 - [ ] Encryption methods
 - [ ] Doubly-linked list

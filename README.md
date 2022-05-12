@@ -7,7 +7,7 @@ Projects that are links are currently being worked on or are finished.
 - [ ] Binary tree
 - [x] [Simple calculator](https://github.com/kbonnici/calculator)
 - [ ] Command line based todo application
-- [ ] Encryption methods
+- [x] [Encryption methods](https://github.com/kbonnici/rot13-encryption)
 - [ ] Doubly-linked list
 - [ ] Final grade calculator
 - [ ] Matrix arithmetic
